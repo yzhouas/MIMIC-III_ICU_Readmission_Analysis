@@ -1,12 +1,6 @@
 # MIMIC-III_ICU_Readmission_Analysis
-This is the source code for the paper 'Analysis and Prediction of Unplanned Intensive Care Unit Readmission'
-[bioRxiv](https://www.biorxiv.org/content/early/2018/08/06/385518)
-# Project Title
-Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is the source code for the paper 'Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory'
+*[bioRxiv](https://www.biorxiv.org/content/early/2018/08/06/385518)
 
 ### Prerequisites
 
